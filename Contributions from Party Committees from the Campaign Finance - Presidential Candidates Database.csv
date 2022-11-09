@@ -1,0 +1,26 @@
+"Title:","Contributions from Party Committees from the Campaign Finance - Presidential Candidates Database"
+"SubTitle:","Party: ALL PARTIES"
+"Time:","1992 - 2022"
+"Unit of Measure:","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$"
+"Citation:","Federal Election Commission (2022-11-09). Campaign Finance - Presidential Candidates: Contributions from Party Committees | ALL PARTIES, 1992 - 2022. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  012-003-013 doi:https://doi.org/10.6068/DP1845E39135469"
+"ColumnCount:",19
+"RowCount:",12
+
+"Candidate","ALL PARTIES, 2022 ($)","ALL PARTIES, 2020 ($)","ALL PARTIES, 2018 ($)","ALL PARTIES, 2016 ($)","ALL PARTIES, 2014 ($)","ALL PARTIES, 2012 ($)","ALL PARTIES, 2010 ($)","ALL PARTIES, 2008 ($)","ALL PARTIES, 2006 ($)","ALL PARTIES, 2004 ($)","ALL PARTIES, 2002 ($)","ALL PARTIES, 2000 ($)","ALL PARTIES, 1998 ($)","ALL PARTIES, 1996 ($)","ALL PARTIES, 1994 ($)","ALL PARTIES, 1992 ($)"
+"CLINTON - HILLARY RODHAM",0,0,0,20039,0,0,0,7000,,,,,,,,
+"BIDEN - JOSEPH R JR",0,8200,,,,0,0,2300,,,,,,,,
+"TRUMP - DONALD",,0,0,9303,,,,,,,,,,,,
+"ROMNEY - MITT",,0,0,0,0,10138,0,0,,,,,,,,
+"OBAMA - BARACK",,,0,0,0,8610,0,1150,,,,,,,,
+"CLINTON - WILLIAM JEFFERSON",,,,,0,0,0,0,0,0,0,0,0,1861,0,11373
+"MCCAIN - JOHN S",,,,,0,0,50,16197,0,,0,442,0,,,
+"KERRY - JOHN F",,,,,,,0,0,0,63154,0,,,,,
+"BUSH - GEORGE W",,,,,,,,0,0,28017,200,28728,,,,
+"GORE - ALBERT JR",,,,,,,,,0,0,0,0,,,,
+"BUSH - GEORGE",,,,,,,,,,0,0,0,0,0,500,12575
+"DOLE - ROBERT J",,,,,,,,,,,0,0,0,184152,0,0
+
+
+
+"Publisher:", "Federal Election Commission"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
